@@ -1,5 +1,3 @@
-from xml.dom import HIERARCHY_REQUEST_ERR
-from numpy import histogram
 import pandas as pd
 import yfinance as yf
 import altair as alt
